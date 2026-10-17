@@ -1,0 +1,5 @@
+.config/
+sample_data/
+cloudflared
+*.log
+__pycache__/
